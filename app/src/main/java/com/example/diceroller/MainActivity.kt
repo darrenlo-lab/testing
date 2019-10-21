@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
         resultText.text = randomInt.toString()
     }
     private fun countDice() {
+        //123
 
             val resultText: TextView = findViewById(R.id.result_text)
              val resultText1: TextView = findViewById(R.id.result_text1)
